@@ -4,7 +4,8 @@
 		<title>Prueba de Despliegue desde GitHub</title>
 	</head>
 	<body>
-		<h1>Despliegue desde GitHub</h1>
+		<h1>GitHub de Fernando Duran</h1>
+
 		<?php
 			phpinfo();
 		?>
